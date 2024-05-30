@@ -1,6 +1,6 @@
 # Employee Training Dashboard
 
-#3 Project Overview
+## Project Overview
 The Power BI Employee Training Dashboard is a comprehensive tool designed to track and visualize employee training attendance and performance metrics. The dashboard provides insights into various aspects such as team-wise attendance, manager-wise attendance, gender distribution, and job level-wise distribution. It helps in understanding training participation and identifying areas for improvement.
 
 ## Problem Statement
@@ -29,4 +29,15 @@ The Power BI Employee Training Dashboard is a comprehensive tool designed to tra
 ## Result
 
 ![image](https://github.com/Hari-Vijayaraghavan96/Employee_Training_Dashboard/assets/163993617/7ee14d29-aeaa-456c-a993-a81808f41d88)
+
+## Recommendations
+Based on the analysis, the following recommendations are proposed:
+
+<li><b>Targeted Training Programs:</b> Focus on teams and managers with lower attendance rates to understand barriers and improve participation.</li>
+<li><b>Incentive Programs:</b> Introduce incentives for teams and managers to boost attendance and engagement.</li>
+<li><b>Regular Monitoring:</b> Implement regular monitoring of attendance data to quickly identify and address any emerging issues.</li>
+<li><b>Customized Training:</b> Tailor training programs to meet the specific needs of different job levels and genders to increase relevance and participation.</li>
+
+## Conclusion
+The Power BI Employee Training Dashboard provides valuable insights into employee training participation and effectiveness. By leveraging the power of data visualization, organizations can make informed decisions to enhance their training programs and ensure higher employee engagement and development.
 
